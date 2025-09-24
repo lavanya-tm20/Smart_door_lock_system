@@ -31,9 +31,11 @@ Ensure all components are connected as per the schematic for proper functionalit
 ```bash
 git clone https://github.com/lavanya-tm20/Smart_door_lock_system.git
 
+
 ### 🔐 Smart Door Lock System Simulation
 
 You can view and interact with the simulation on Tinkercad:
 
 [View Simulation on Tinkercad](https://www.tinkercad.com/things/lxUUNpwckyS-smart-door-lock-system)
+
 
